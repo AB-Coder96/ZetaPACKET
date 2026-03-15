@@ -1,6 +1,6 @@
-    # ZetaXDP — Kernel-Bypass UDP Ingest (AF_XDP)
+    # ZetaPacket — Kernel-Bypass UDP Ingest (AF_XDP)
 
-    ZetaXDP is a focused systems project exploring **kernel-bypass UDP ingest** using **AF_XDP**. The goal is to demonstrate the exact performance work HFT teams care about:
+    ZetaPacket is a focused systems project exploring **kernel-bypass UDP ingest** using **AF_XDP**. The goal is to demonstrate the exact performance work HFT teams care about:
 
     - fast, predictable packet ingest (**pps + tail latency**)
     - correctness under load (**loss detection**, gaps, counters)
